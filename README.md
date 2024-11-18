@@ -49,7 +49,7 @@ Additional categories will be added as new payloads are developed.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/MyPayloads.git
+    git clone https://github.com/S2K7x/MyPayloads.git
     cd MyPayloads
     ```
 
